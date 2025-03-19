@@ -1,6 +1,6 @@
 ﻿namespace TestQuanNet
 {
-    partial class Form1
+    partial class Login_form
     {
         /// <summary>
         /// Required designer variable.
