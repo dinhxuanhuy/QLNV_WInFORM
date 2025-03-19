@@ -8,6 +8,7 @@ namespace TestQuanNet
 {
     internal static class Program
     {
+        //Nguyen HoanG Giap
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
